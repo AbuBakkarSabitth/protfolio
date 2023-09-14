@@ -113,7 +113,7 @@ width: 500px;
 background: #FFF8F3;
 margin: 130px 0;
 }
-.section-tittle{
+.section-title{
 
     color:  #181818);
     text-align: center;
@@ -143,8 +143,9 @@ main{
     text-align: center;
 }
 .about-info-container{
-
-
     display: flex;
     justify-content: space-around;
+}
+#what-i-do-description{
+padding: 150px;
 }
